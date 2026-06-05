@@ -1,4 +1,4 @@
-AWS IAM
+## AWS IAM
 AIM
    Explore pre-created IAM users and groups.
    Inspect IAM policies as applied to the pre-created groups.
